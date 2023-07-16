@@ -1,0 +1,8 @@
+{
+  "selectLabel": "Choose language",
+  "english": "English",
+  "ukrainian": "Ukrainian",
+  "french": "French",
+
+  "defaultNumber": "{{val, number(minimumFractionDigits: 2)}}"
+}
